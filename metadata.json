@@ -8,99 +8,97 @@
   "project_page": "https://github.com/dylanratcliffe/no_cached_catalogs",
   "issues_url": "https://github.com/dylanratcliffe/no_cached_catalogs/issues",
   "dependencies": [],
-  "data_provider": null,
   "operatingsystem_support": [
-  {
-    "operatingsystem": "RedHat",
-    "operatingsystemrelease": [
-      "5",
-      "6",
-      "7"
-    ]
-  },
-  {
-    "operatingsystem": "CentOS",
-    "operatingsystemrelease": [
-      "5",
-      "6",
-      "7"
-    ]
-  },
-  {
-    "operatingsystem": "OracleLinux",
-    "operatingsystemrelease": [
-      "5",
-      "6",
-      "7"
-    ]
-  },
-  {
-    "operatingsystem": "Scientific",
-    "operatingsystemrelease": [
-      "5",
-      "6",
-      "7"
-    ]
-  },
-  {
-    "operatingsystem": "SLES",
-    "operatingsystemrelease": [
-      "10 SP4",
-      "11 SP1",
-      "12"
-    ]
-  },
-  {
-    "operatingsystem": "Debian",
-    "operatingsystemrelease": [
-      "6",
-      "7",
-      "8"
-    ]
-  },
-  {
-    "operatingsystem": "Ubuntu",
-    "operatingsystemrelease": [
-      "10.04",
-      "12.04",
-      "14.04"
-    ]
-  },
-  {
-    "operatingsystem": "Solaris",
-    "operatingsystemrelease": [
-      "10",
-      "11",
-      "12"
-    ]
-  },
-  {
-    "operatingsystem": "Windows",
-    "operatingsystemrelease": [
-      "Server 2003 R2",
-      "Server 2008 R2",
-      "Server 2012",
-      "Server 2012 R2"
-    ]
-  },
-  {
-    "operatingsystem": "AIX",
-    "operatingsystemrelease": [
-      "5.3",
-      "6.1",
-      "7.1"
-    ]
-  }
-],
-"requirements": [
-  {
-    "name": "pe",
-    "version_requirement": ">= 3.0.0"
-  },
-  {
-    "name": "puppet",
-    "version_requirement": ">= 3.0.0"
-  }
-]
-}
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Scientific",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "SLES",
+      "operatingsystemrelease": [
+        "10 SP4",
+        "11 SP1",
+        "12"
+      ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "10.04",
+        "12.04",
+        "14.04"
+      ]
+    },
+    {
+      "operatingsystem": "Solaris",
+      "operatingsystemrelease": [
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    {
+      "operatingsystem": "Windows",
+      "operatingsystemrelease": [
+        "Server 2003 R2",
+        "Server 2008 R2",
+        "Server 2012",
+        "Server 2012 R2"
+      ]
+    },
+    {
+      "operatingsystem": "AIX",
+      "operatingsystemrelease": [
+        "5.3",
+        "6.1",
+        "7.1"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "pe",
+      "version_requirement": ">= 3.0.0"
+    },
+    {
+      "name": "puppet",
+      "version_requirement": ">= 3.0.0"
+    }
+  ]
 }
