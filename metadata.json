@@ -1,0 +1,15 @@
+{
+  "name": "dylanratcliffe-no_catalog_cache_terminus",
+  "version": "0.1.0",
+  "author": "dylanratcliffe",
+  "summary": "Adds a catalog terminus and indirector which allows user to stop the Puppet Agent caching catalogs on the local disk",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
