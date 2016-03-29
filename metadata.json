@@ -1,6 +1,6 @@
 {
   "name": "dylanratcliffe-no_cached_catalogs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Dylan Ratcliffe",
   "summary": "Adds a catalog terminus and indirector which allows user to stop the Puppet Agent caching catalogs on the local disk",
   "license": "Apache-2.0",
