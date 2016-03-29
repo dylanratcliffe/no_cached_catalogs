@@ -13,3 +13,7 @@ catalog_cache_terminus = none
 ```
 
 Or manage the setting in Puppet Code (recommended) using the [inifile module](https://forge.puppetlabs.com/puppetlabs/inifile)
+
+**NOTE:** As App Orchestration relies on agents being able to run against cached
+catalogs, using setting the `catalog_cache_terminus` to `none` will break App
+Orchestration.
